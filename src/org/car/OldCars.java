@@ -6,8 +6,14 @@ public class OldCars {
 		System.out.println("gives good mileage");
 
 	}
+	
+	public static void zen() {
+		System.out.println("latest version");
+
+	}
 	public static void main(String[] args) {
 		maruti800();
+		zen();
 	}
 	
 }
